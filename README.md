@@ -1,1 +1,1 @@
-# mern-project
+# first-project
